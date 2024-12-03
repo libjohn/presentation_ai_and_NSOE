@@ -4,6 +4,8 @@
 
 <!-- badges: end -->
 
+SLIDES:  https://duke.is/llm-nsoe
+
 An invited presentation with Jenna Strawbridge to the [NSOE](https://nicholas.duke.edu/) on ways that LLMs may replace traditional resources. The presentation will consider the following:
 
 -   What are the tendencies of the big three: ChatGPT \[and MS CoPilot\], Claude, Gemini, plus GitHub CoPilot
