@@ -1,6 +1,6 @@
 ---
 title: "AI as a learning resource"
-subtitle: "Understanding predictions and Verifyng responses"
+subtitle: "Understanding predictions and Verifying responses"
 
 author: 
   name: "John Little"
